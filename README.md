@@ -60,3 +60,29 @@ A well-designed booking system reduces friction in the user journey, increases c
   **Importance of identifying design properties**
   Identifying design properties for a mock-up application is important for clarity and consistency, meeting functional goals, efficient communication, testing    and iteration, accessibility and inclusivity, and finally, for performance and optimization
 
+  **Project Roles and Responsibilities**
+-----------------------------------------------------------------------------------------------
+| **Role**         | **Responsibilites**                                                      |
+-----------------------------------------------------------------------------------------------
+| Project Manager  | Oversees timeline, coordinates team, manages deliverables                |
+-----------------------------------------------------------------------------------------------
+| Frontend         | Implements UI components, ensures responsive design                      |
+| Developers       |                                                                          |
+-----------------------------------------------------------------------------------------------
+| Backend          | Build APIs, manages database, implements business logic                  |
+| Developers       |                                                                          |
+-----------------------------------------------------------------------------------------------
+| Designers        | Creates mockups, maintains design system, ensures UX quality             |
+-----------------------------------------------------------------------------------------------
+| QA/Testers       | Writes test cases, performs testing, reports bugs                        |
+-----------------------------------------------------------------------------------------------
+| DevOps Engineers | Manages deployment, CI/CD pipeline, server infrastructure                |
+-----------------------------------------------------------------------------------------------
+| Product Owner    | Defines requirements, prioritizes features, represents stakeholders      |
+-----------------------------------------------------------------------------------------------
+| Scrum master     | Facilitates agile processes, removes blockers, organizes meetings        |
+-----------------------------------------------------------------------------------------------
+
+
+  
+
